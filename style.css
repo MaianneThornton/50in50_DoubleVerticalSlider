@@ -95,10 +95,3 @@ button:focus {
   border-bottom-right-radius: 5px;
 }
 
-/* @media (max-width: 580px) {
-  body {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-} */
